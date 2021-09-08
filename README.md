@@ -20,3 +20,6 @@ During the training process, test will conduct every n step, set n in `expdata/o
 validate_every = [n]
 ```
 In our training process, we set test every half epoch.
+
+## Chinese MPQA Corpus
+If you want to abtain the Chinese MPQA corpus, please email `zenrran@gmail.com` with your information (name, organization, and the purpose).
