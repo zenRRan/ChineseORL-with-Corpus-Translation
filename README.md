@@ -1,4 +1,4 @@
-# Chinese-ORL-with-Corpus-Translation
+# ChineseORL-with-Corpus-Translation
 
 This repository contains codes and configs for training models presented in: 
 
